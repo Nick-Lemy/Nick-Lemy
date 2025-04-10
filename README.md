@@ -4,12 +4,6 @@
   I’m always eager to connect with like-minded professionals <br> and explore opportunities to grow in my journey.
 </p>
 
-###
-
-
-###
-
-<img align="right" height="150" width="200" src="https://media3.giphy.com/media/l0Iy2vqY7cTFR3RGE/giphy.gif?cid=6c09b952alwjwks8daiwyx8bichhg3v7852a266qsieifjlz&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
 
