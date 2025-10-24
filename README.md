@@ -1,9 +1,7 @@
 <h2 align="left">Hey 👋, I'm Nick-Lemy Kayiranga</h2>
 
 <p align="left">
-  I'm a passionate <strong>Junior Software Developer</strong> who enjoys building full-stack web and mobile apps. <br />
-  I'm constantly learning, exploring, and collaborating with developers worldwide. <br />
-  Let's connect and build something amazing together!
+I’m a Junior Software Developer who writes code the way anime tells stories — with patience, passion, and the occasional plot twist. I love building things that feel alive, whether it’s a web app, a mobile experience, or the next side quest in my learning journey.
 </p>
 
 ---
