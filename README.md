@@ -16,7 +16,7 @@ I’m a Junior Software Developer who writes code the way anime tells stories: w
 
 **Database & Services:** MongoDB, PostgreSQL, Firebase
 
-**Other:** REST APIs, WebSockets, Prisma, Git, Linux
+**Other:** REST APIs, WebSockets, Prisma, Git, Linux, Bash, Tailwindcss
 
 ---
 
