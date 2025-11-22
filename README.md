@@ -22,7 +22,7 @@ I’m a Junior Software Developer who writes code the way anime tells stories: w
 
 ### 📫 Connect with Me
 
-  <a target='_black' href="https://www.codewars.com/users/zkaynl7"><img src="https://www.codewars.com/users/zkaynl7/badges/micro"></a>
+  <a target='_black' href="https://www.codewars.com/users/zkaynl7"><img src="https://www.codewars.com/users/zkaynl7/badges/small"></a>
 <p align="left">
   <a href="https://www.linkedin.com/in/nick-lemy" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
