@@ -45,9 +45,3 @@ I’m a Junior Software Developer who writes code the way anime tells stories: w
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nick-Lemy&langs_count=8&layout=compact&bg_color=00000000&hide_border=true&hide_title=true&hide=shaderlab">
 </div>
 
- <div>
-   <a href="https://github.com/nick-lemy">
-     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nick-lemy&theme=dracula" width="680" height="200" alt="nick-lemy"/>
-   </a>  
- </div>
-
