@@ -9,7 +9,7 @@ Open to exciting opportunities and good collaborations
 ## 💻 Tech Stack
 
 **Frontend**  
-React, Next.js (v14/16), TypeScript, Tailwind CSS, HTML5, CSS3
+React, Next.js, TypeScript, Tailwind CSS, HTML5, CSS3
 
 **Backend**  
 NestJS, Express.js, TypeScript
