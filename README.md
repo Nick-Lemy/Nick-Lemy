@@ -52,10 +52,14 @@ TypeScript, Go, Modern full-stack patterns, Clean architecture
 ---
 
 ### 📊 GitHub Stats
-<div align='left'>
+<!-- <div align='left'> -->
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=nick-lemy&show_icons=true&theme=dracula&count_private=true&hide_border=false" height="170em" /> -->
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nick-lemy&layout=compact&count_private=true&langs_count=8&theme=dracula&hide_border=false" height="170em" /> -->
-  <img  height="170em" width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=nick-lemy&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nick-Lemy&langs_count=8&layout=compact&bg_color=00000000&hide_border=true&hide_title=true&hide=shaderlab">
-</div>
+  <!-- <img  height="170em" width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=nick-lemy&count_private=true&theme=react&border_radius=10" alt="streak stats"/> -->
+  <!-- <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nick-Lemy&langs_count=8&layout=compact&bg_color=00000000&hide_border=true&hide_title=true&hide=shaderlab"> -->
+<!-- </div> -->
+
+   <!--![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=nick-lemy&show_icons=true&theme=radical) -->
+  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=nick-lemy&theme=radical)
+  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nick-lemy&layout=compact&theme=radical)
 
