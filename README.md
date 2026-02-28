@@ -61,5 +61,5 @@ TypeScript, Go, Modern full-stack patterns, Clean architecture
 
    <!--![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=nick-lemy&show_icons=true&theme=radical) -->
   ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=nick-lemy&theme=radical)
-  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nick-lemy&layout=compact&theme=radical)
+  ![GitHub Stats](https://random-shii-two.vercel.app/api/top-langs/?username=nick-lemy&layout=compact&theme=radical)
 
