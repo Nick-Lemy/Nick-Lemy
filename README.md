@@ -3,7 +3,6 @@ Building clean, scalable web apps with **TypeScript**, **React / Next.js**, **Ne
 Currently turning side projects into real-world impact while training to become a TypeScript wizard
 
 Open to exciting opportunities and good collaborations
-+250 793 226 807
 ---
 
 ## 💻 Tech Stack
