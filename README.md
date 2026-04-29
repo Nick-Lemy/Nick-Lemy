@@ -48,6 +48,9 @@ TypeScript, Go, Modern full-stack patterns, Clean architecture
 
 **LinkedIn**: https://www.linkedin.com/in/nick-lemy
 
+<img src="https://www.codewars.com/users/zkaynl7/badges/micro" height="" />
+
+
 ---
 
 ### 📊 GitHub Stats
