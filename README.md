@@ -1,6 +1,7 @@
 ## Hello, I'm Nick
 Building clean, scalable web apps with **TypeScript**, **React / Next.js**, **Nest.js** & modern stacks.  
-Currently turning side projects into real-world impact while training to become a TypeScript wizard
+Currently turning side projects into real-world impact.
+
 
 Open to exciting opportunities and good collaborations
 
